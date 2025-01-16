@@ -1,8 +1,4 @@
-# How It Works
-1. Enter the name of the city in the search bar.
-2. Click the search button (🔍) or press Enter.
-3. The app fetches data from the OpenWeather API and displays:
-   - Current temperature.
-   - Humidity level.
-   - Wind speed.
-4. Visual cues like icons indicate sunny, cloudy, or rainy weather conditions.
+# How to Use
+1. Enter any text or URL in the input box.
+2. Click on the "Generate QR Code" button.
+3. The QR code for the provided input will be displayed below.
