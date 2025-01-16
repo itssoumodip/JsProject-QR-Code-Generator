@@ -1,2 +1,6 @@
 # JsProject-QR-Code-Generator
-This is a simple and responsive QR Code Generator application built using HTML, CSS, and JavaScript. It allows users to create QR codes dynamically by entering any text or URL. The generated QR codes can be used for sharing links, text, or other information in a scannable format.
+
+## How to Use
+1. Enter any text or URL in the input box.
+2. Click on the "Generate QR Code" button.
+3. The QR code for the provided input will be displayed below.
