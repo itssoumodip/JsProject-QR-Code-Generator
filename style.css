@@ -44,3 +44,19 @@ body {
     margin: 20px 0;
     font-weight: 500;
 }
+#imgBox {
+    width: 200px;
+    border-radius: 5px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 3s ease-out;
+}
+#imgBox img {
+    width: 100%;
+    padding: 10px 10px 6px 10px;
+}
+#imgBox.show-Img {
+    max-height: 300px;
+    margin: 10px auto;
+    border: 2px solid #d1d1d1;
+}
